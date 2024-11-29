@@ -1,0 +1,11 @@
+# Ignore all zip files
+*.zip
+
+# Ignore all docx files
+*.docx
+
+# Ignore all pdf files
+*.pdf
+
+# Ignore specific json file
+weather_api_output.json
