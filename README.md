@@ -31,7 +31,7 @@ The Weather App is a ReactJS application that allows users to search for and vie
 ![Search Bar Weather](images/s1.png)
 
 ### Current Weather
-![Current Weather Screenshot](s2.png)
+![Current Weather Screenshot](images/s2.png)
 
 ### Postman Testing 
 ![Postman Testing Screenshot](images/s3.png)
