@@ -25,4 +25,13 @@ The Weather App is a ReactJS application that allows users to search for and vie
    - Styled with CSS and designed for a clean and modern UI.
    - Mobile-friendly layout using Bootstrap.
 
+#Project Output
 
+### Search Bar
+![Search Bar Weather](images/s1)
+
+### Current Weather
+![Current Weather Screenshot](s2)
+
+### Postman Testing 
+![Postman Testing Screenshot](images/s3)
